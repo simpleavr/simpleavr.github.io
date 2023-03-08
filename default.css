@@ -43,3 +43,13 @@ body {
 img {
 	width:400;
 }
+
+.w320 {
+        margin-right:30;
+        width:320;
+}
+
+.w240 {
+        margin-right:20;
+        width:240;
+}

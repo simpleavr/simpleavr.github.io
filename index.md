@@ -1,8 +1,8 @@
-<div style="height:120px;overflow:hidden"> <img src="electronics.jpg" style="margin:0 0 0 0" /> </div>
+<div style="height:80px;overflow:hidden"> <img src="electronics.jpg" style="margin:0 0 0 0" /> </div>
 
 ## SimpleAvr Projects
 
-<div style="height:120px;overflow:hidden"> <img src="electronics.jpg" style="margin:-200px 0 0 0" /> </div><br>
+<div style="height:60px;overflow:hidden"> <img src="electronics.jpg" style="margin:-200px 0 0 0" /> </div><br>
 
 
 **`[June, 2023]`** add [S14 Clock](s14clock) project
